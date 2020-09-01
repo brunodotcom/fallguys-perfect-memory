@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Room;
 use Illuminate\Http\Request;
 
+//TODO Add Doc
 class RoomController extends Controller
 {
     /**
