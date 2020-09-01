@@ -22,6 +22,4 @@ class Room extends Model
     protected $fillable = [
         'tiles',
     ];
-
-
 }
